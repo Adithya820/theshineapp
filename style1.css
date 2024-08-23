@@ -1,0 +1,205 @@
+* {
+    margin: 0
+}
+ 
+.box {
+    /* width: 100%; */
+    height: 100px;
+    background-color: rgb(248, 238, 216);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(68, 47, 58);
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 20px;
+    padding: 20px;
+   
+ 
+ 
+    
+}
+ 
+.header {
+    color: dark brown;
+    margin: 10px;
+    font-size: 20px;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+ 
+button {
+    border-radius: 47px;
+    background: rgb(247, 202, 93);
+    padding: 10px 15px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    width: 198px;
+    height: 50px;
+    font-family: Poppins;
+    font-size: 15px;
+    color: rgb(68, 47, 58);
+    font-family: Poppins,Work Sans,sans-serif;
+    font-weight: 600;
+    line-height: 22px;
+    
+}
+ 
+.heroimage {
+    position: relative;
+    /* width: 100%; */
+}
+ 
+ 
+ 
+.logo {
+    border-radius: 20px;
+    width: 100px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+ 
+.message1 {
+ 
+    line-height: 110%;
+    max-width: 410px;
+    font-size: 44px;
+    font-weight: 800px;
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+ 
+.message2 {
+    font-size: 30px;
+    max-width: 425px;
+    margin: 12px 0px 40px;
+    position: absolute;
+    top: 420px;
+    left: 100px;
+ 
+  font-family: Poppins,Work Sans,sans-serif;
+}
+.awardlogo {
+    border-radius: 20px;
+    position: absolute;
+    top: 650px;
+    left: 100px;
+    width: 150px;
+}
+ 
+.about {
+    position: absolute;
+    top: 50px;
+    right: 500px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(68, 47, 58);
+    transition: color 0.3s linear;
+    margin-right: 38px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid transparent;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+ 
+.shine {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(68, 47, 58);
+    transition: color 0.3s linear;
+    margin-right: 38px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid transparent;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+ 
+.podcasts {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(68, 47, 58);
+    transition: color 0.3s linear;
+    margin-right: 38px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid transparent;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+.middlepart{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+ 
+.m1{
+    margin :40px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 110%;
+    margin-bottom: 8px;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+.m2{
+    font-size: 26px;
+    font-style: normal;
+    line-height: 120%;
+    text-align: center;
+    margin-top: 4px;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+.m3{
+    font-size: 26px;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 120%;
+    text-align: center;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+ 
+ 
+.smallimg
+{
+    border-radius: 20px;
+    width: 70px;
+    margin: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.h1
+{
+    font-weight: 200px;
+    font-size: 18px;
+    text-align: center;
+    font-family: Poppins,Work Sans,sans-serif;
+}
+.h2
+{
+    font-size: 14px;
+  
+    font-family: Poppins,Work Sans,sans-serif;
+}
+.vid{
+    height: 800px;
+    width: 800px;
+}
+.greenpart{
+background-image: url("/static/media/library-section-blob.4fcdf0b4.svg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 30%;
+  background-color: rgb(52, 115, 113);}
